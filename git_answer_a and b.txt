@@ -1,12 +1,11 @@
-1. git init - initializes.
+1. git init - initializes repository.
 2. git config user.name "" - configures the local user name.
 3. git config user.email "" - configures the local user email.
 4. git config --global user.name - configures the global user name.
 5. git config --global user.email - configures the global user email.
 6. git add (file name) - add the specific file to be committed.
 7. git add * - add all of the files to be committed.
-8. git branch -M main - creates and checkouts to the main branch.
+8. git branch -M main - creates main branch.
 9. git remote add origin (repository link) - sets the repository to be used.
-10. git commit -m "(description)" - save.
+10. git commit -m "(description)" - save a snapshot of your work.
 11. git push -u origin main - pushes / uploads the files into the repository.
-s
