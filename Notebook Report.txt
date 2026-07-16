@@ -1,0 +1,8 @@
+Opensource - source code can be seen.
+Free Ware - free but the source code cannot be seen.
+Proprietary - not free, no source code and needs license.
+
+Two types of License:
+Permissive License
+Copyleft License
+
