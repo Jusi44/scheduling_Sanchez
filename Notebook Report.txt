@@ -6,3 +6,5 @@ Two types of License:
 Permissive License
 Copyleft License
 
+Opensource is free and give access
+
