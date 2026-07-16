@@ -9,3 +9,4 @@
 9. git remote add origin (repository link) - sets the repository to be used.
 10. git commit -m "(description)" - save.
 11. git push -u origin main - pushes / uploads the files into the repository.
+s
